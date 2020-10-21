@@ -1,0 +1,22 @@
+{
+  "name": "xml-task",
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "node-xml-stream": "^1.0.2"
+  },
+  "engines": {
+    "node": "4.4.7"
+  },
+  "devDependencies": {
+    "@jest/globals": "^26.6.0",
+    "jest": "^26.6.0"
+  }
+}
